@@ -96,7 +96,7 @@ when you are signed in to Acme Corp's Identity account.
 
 Here's an example Role menu:
 
-<img width="480" alt="AWS Switch Role Menu"
+<img width="960" alt="AWS Extend Switch Roles menu"
 src="./img/aws-extend-switch-roles.png">
 
 ## Summary
