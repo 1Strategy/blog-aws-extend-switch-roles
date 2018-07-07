@@ -20,7 +20,15 @@ or
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/aws-extend-switch-roles3/)
 extension which extends the number of IAM Roles beyond five and lets you create
 groups of related AWS accounts/Roles. For example, when you logon to your
-Identity account at work, the Account drop-down menu will only show work-related Roles, e.g. dev, test, prod; your personal accounts will not be shown.
+Identity account at work, the Account drop-down menu will only show work-related
+Roles, e.g. dev, test, prod; your personal accounts will not be shown.
+
+## AWS Extend Switch Roles Appearance
+
+Here's what it will look like when we're done:
+
+<img width="960" alt="AWS Extend Switch Roles menu"
+src="./img/aws-extend-switch-roles.png">
 
 ## Extension Configuration
 
@@ -91,13 +99,6 @@ you have Acme Corp's Identity account and dev/test/prod IAM roles *and* Beyond
 Corp's Identity account and dev/staging/prod IAM roles in the Switch Roles
 configuration, then only Acme Corp's dev/test/prod IAM roles will be available
 when you are signed in to Acme Corp's Identity account.
-
-## AWS Extend Switch Roles Appearance
-
-Here's an example Role menu:
-
-<img width="960" alt="AWS Extend Switch Roles menu"
-src="./img/aws-extend-switch-roles.png">
 
 ## Summary
 
